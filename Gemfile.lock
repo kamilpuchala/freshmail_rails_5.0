@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    freshmail (0.1.6)
+    freshmail (0.2.0)
       faraday (~> 0.9)
       json (~> 1.8)
       rails (~> 5.0)

@@ -72,6 +72,6 @@ Add tests.
 ## Licence
 
 Copyright (c) 2015 Marcin Adamczyk, released under the MIT license
-
+Fork by Kamil Puchała, to add posibility to use Rails 5
 
 *Feel free to contact me if you need help: marcin.adamczyk [--a-t--] subcom.me*
